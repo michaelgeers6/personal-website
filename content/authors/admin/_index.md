@@ -75,4 +75,4 @@ As a Fellow of the International Max Planck Research School on the Life Course (
 
 Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences at the University of Pennsylvania. I also completed an MSc in Marketing (Trinity College Dublin) and a BA in Business (Provadis School of International Management and Technology).
 
-See my  {{< staticref "static/media/resume.pdf" "newtab" >}}CV{{< /staticref >}} for more on my background and experience.
+See my {{< staticref "static/media/resume.pdf" "newtab" >}}CV{{< /staticref >}} for more on my background and experience.
