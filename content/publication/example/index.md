@@ -25,7 +25,7 @@ date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-11-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,13 +34,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+#publication: In *Wowchemy Conference*
+#publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Online platforms collect and infer detailed information about people and their behaviour, giving advertisers an unprecedented ability to reach specific groups of recipients. This ability to "microtarget" messages contrasts with people's limited knowledge of what data platforms hold and how those data are used. Two online experiments (total N = 828) demonstrated that a short, simple intervention prompting participants to reflect on a targeted personality dimension boosted their ability to correctly identify the ads that were targeted at them by up to 26 percentage points. Merely providing a description of the targeted personality dimension did not improve accuracy; accuracy increased when participants completed a short questionnaire assessing the personality dimension---even when no personalized feedback was provided. We argue that such "boosting approaches," which improve peoples' ability to detect advertising strategies, should be part of a policy mix aiming to increase platforms' transparency and give people the competences necessary to reclaim their autonomy online.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
