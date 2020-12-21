@@ -80,5 +80,4 @@ See my {{% staticref "media/resume.pdf" "newtab" %}} CV{{% /staticref %}} for mo
 
 
 
-
-{{< figure library="true" src="ARC.png" >}}
+{{< figure library="true" src="logos.png" >}}
