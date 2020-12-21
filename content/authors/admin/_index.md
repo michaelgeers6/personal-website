@@ -52,9 +52,6 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Michael_Geers
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,6 +71,4 @@ I am a doctoral student in Psychology at the Center for Adaptive Rationality (AR
 
 As a Fellow of the International Max Planck Research School on the Life Course (LIFE), my doctoral research is jointly supervised by Ralph Hertwig and Stefan Herzog.
 
-Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences at the University of Pennsylvania. I also completed an MSc in Marketing (Trinity College Dublin) and a BA in Business (Provadis School of International Management and Technology). See my CV for more on my background and experience.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences at the University of Pennsylvania. I also completed an MSc in Marketing (Trinity College Dublin) and a BA in Business (Provadis School of International Management and Technology). See my  {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}} for more on my background and experience.
