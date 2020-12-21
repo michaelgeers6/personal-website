@@ -67,7 +67,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a doctoral student in Psychology at the Center for Adaptive Rationality (ARC) at the Max Planck Institute for Human Development in Berlin. My work applies behavioral science insights and methods to understand important digital challenges and to develop interventions to mitigate them. To this end, I currently investigate how to reduce the impact of misinformation and how to increase resilience to microtargeting.
+I am a doctoral student in Psychology at the Center for Adaptive Rationality (ARC) at the Max Planck Institute for Human Development in Berlin.
+
+My work applies behavioral science insights and methods to understand important digital challenges and to develop interventions to mitigate them. To this end, I currently investigate how to reduce the impact of misinformation and how to increase resilience to microtargeting.
 
 As a Fellow of the International Max Planck Research School on the Life Course (LIFE), my doctoral research is jointly supervised by Ralph Hertwig and Stefan Herzog.
 
