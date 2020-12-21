@@ -11,7 +11,7 @@ role: PhD Candidate in Psychology
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Max Planck Institute for Human Development
-  url: https://www.mpib-berlin.mpg.de/en
+  #url: https://www.mpib-berlin.mpg.de/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD Candidate in Psychology, Center for Adaptive Rationality (ARC) at Max Planck Institute for Human Development
