@@ -5,12 +5,12 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#home"
   weight = 10
 
 [[main]]
-  name = "Projects"
-  url = "#publications"
+  name = "Research"
+  url = "#research"
   weight = 20
 
 # Link to a PDF of your resume/CV from the menu.
