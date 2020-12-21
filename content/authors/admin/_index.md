@@ -79,3 +79,5 @@ See my {{% staticref "media/resume.pdf" "newtab" %}} CV{{% /staticref %}} for mo
 
 
 {{< figure library="true" src="MPS.jpg" title="A caption" >}}
+
+{{< figure library="true" src="ARC.jpg" title="A caption" >}}
