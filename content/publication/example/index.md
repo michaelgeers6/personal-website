@@ -6,7 +6,7 @@ title: "A simple self-reﬂection intervention boosts the detection of targeted 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Philipp Lorenz-Spreen
-- Michaek Geers
+- Michael Geers
 - Thorsten Pachur
 - Ralph Hertwig
 - Stephan Lewandowsky
@@ -15,6 +15,10 @@ authors:
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
+-
+-
+-
+-
 - "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
