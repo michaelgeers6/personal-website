@@ -78,5 +78,6 @@ Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences at t
 See my {{% staticref "media/resume.pdf" "newtab" %}} CV{{% /staticref %}} for more on my background and experience.
 
 <br>
+<br>
 
 {{< figure library="true" src="logos.png" >}}
