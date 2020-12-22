@@ -6,13 +6,11 @@
 [[main]]
   name = "Home"
   url = "#about"
-  align: center
   weight = 10
 
 [[main]]
   name = "Research"
   url = "#research"
-  align: center
   weight = 20
 
 # Link to a PDF of your resume/CV from the menu.
@@ -20,13 +18,11 @@
 [[main]]
   name = "CV"
   url = "media/resume.pdf"
-  align: center
   weight = 30
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  align: center
   weight = 40
  
 
