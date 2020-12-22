@@ -97,7 +97,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.46861200671476", longitude = "13.303658997323085"}
+# coordinates = {latitude = "52.46861200671476", longitude = "13.303658997323085"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
