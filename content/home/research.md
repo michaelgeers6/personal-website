@@ -1,7 +1,15 @@
 ---
-title: 'Research'
-date: 2018-02-22T17:01:34+07:00
-menu: 'research'
+widget: research
+
+# This file represents a page section.
+headless: false
+
+# Order that this section appears on the page.
+weight: 20
+
+title: Research
+subtitle:
+
 ---
 
 ## Working Papers
