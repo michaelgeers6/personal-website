@@ -88,12 +88,12 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "geers@mpib-berlin.mpg.de"
-phone = "+49 30 82406-598"
+# email = "geers@mpib-berlin.mpg.de"
+# phone = "+49 30 82406-598"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Lentzeallee 94", region = "Berlin", postcode = "14195", country = "Germany", country_code = "DE"}
+# address = {street = "Lentzeallee 94", region = "Berlin", postcode = "14195", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -112,7 +112,7 @@ coordinates = {latitude = "52.46861200671476", longitude = "13.303658997323085"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
  contact_links = [
-   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/michael_geers_"},
+  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/michael_geers_"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
