@@ -1,7 +1,7 @@
 ---
 title: 'Research2'
-weight: 25
-menu: 'research'
+date: 2018-02-22T17:01:34+07:00
+menu: 'main'
 ---
 
 
