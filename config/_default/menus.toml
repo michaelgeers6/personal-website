@@ -15,9 +15,10 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
+# See my {{% staticref "media/resume.pdf" "newtab" %}} CV{{% /staticref %}} for more on my background and experience.
 [[main]]
   name = "CV"
-  url = "media/resume.pdf"
+  url = {{% staticref "media/resume.pdf" "newtab" %}}
   weight = 30
 
 [[main]]
