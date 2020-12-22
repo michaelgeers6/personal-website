@@ -33,3 +33,5 @@ Email: geers@mpib-berlin.mpg.de
 Phone: +49 30 82406-598
 
 <br>
+
+{{< figure library="true" src="mpib.jpg" >}}
