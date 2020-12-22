@@ -1,6 +1,7 @@
 ---
 title: 'Research2'
 weight: 25
+align: center
 menu: 'main'
 ---
 
