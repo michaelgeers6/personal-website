@@ -28,3 +28,12 @@ content:
 design:
   columns: '2'
 ---
+
+Michael Geers
+Center for Adaptive Rationality
+Max Planck Institute for Human Development
+Lentzeallee 94, Berlin 14195
+Germany
+
+Email: geers@mpib-berlin.mpg.de
+Phone: +49 30 82406-598
