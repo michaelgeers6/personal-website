@@ -1,16 +1,9 @@
 ---
-widget: research
-
-# This file represents a page section.
-headless: false
-
-# Order that this section appears on the page.
+title: 'Research'
 weight: 20
-
-title: Research
-subtitle:
-
+menu: 'research'
 ---
+
 
 ## Working Papers
 
