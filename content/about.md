@@ -1,6 +1,6 @@
 ---
 title: 'Research'
-weight: 20
+weight: 25
 menu: 'research'
 ---
 
