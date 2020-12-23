@@ -65,6 +65,11 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+
+# See my {{% staticref "media/resume.pdf" "newtab" %}} CV{{% /staticref %}} for more on my background and experience.
+
+
 ---
 
 I am a doctoral student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/staff/michael-geers), Max Planck Institute for Human Development in Berlin.
@@ -77,4 +82,3 @@ Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences at t
 
 See my {{% staticref "media/resume.pdf" %}} CV{{% /staticref %}} for more on my background and experience.
 
-# See my {{% staticref "media/resume.pdf" "newtab" %}} CV{{% /staticref %}} for more on my background and experience.
