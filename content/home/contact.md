@@ -22,9 +22,7 @@ Center for Adaptive Rationality (ARC)
 
 Max Planck Institute for Human Development
 
-Lentzeallee 94, 14195 Berlin
-
-Germany
+Lentzeallee 94, 14195 Berlin, Germany
 
 <br>
 
