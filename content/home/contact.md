@@ -18,11 +18,11 @@ design:
 
 Michael Geers
 
-Center for Adaptive Rationality
+Center for Adaptive Rationality (ARC)
 
 Max Planck Institute for Human Development
 
-Lentzeallee 94, Berlin 14195
+Lentzeallee 94, 14195 Berlin
 
 Germany
 
