@@ -6,12 +6,12 @@ title: Ralph Hertwig
 superuser: true
 
 # Role/position/tagline
-role: Max Planck Institute for Human Development
+#role: Max Planck Institute for Human Development
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Max Planck Institute for Human Development
-  #url: https://www.mpib-berlin.mpg.de/en
+  url: https://www.mpib-berlin.mpg.de/en
   
 # Make person appear on website
 authors:
