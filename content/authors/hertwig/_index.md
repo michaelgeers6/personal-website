@@ -17,6 +17,8 @@ organizations:
 authors:
 - hertwig
 
+user_groups: ["Researchers", "Visitors"]
+
 
 
 # Short bio (displayed in user profile at end of posts)
