@@ -1,7 +1,6 @@
 ---
 # Display name
-- title: Ralph Hertwig
-  #url: https://www.mpib-berlin.mpg.de/staff/ralph-hertwig
+title: Ralph Hertwig
 
 # Is this the primary user of the site?
 superuser: true
