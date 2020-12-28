@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: Research
 
 type: "widget_page"
 ---
