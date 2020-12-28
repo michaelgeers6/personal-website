@@ -1,5 +1,5 @@
 ---
 title: Resume
 
-type: docs
+type: "docs"
 ---
