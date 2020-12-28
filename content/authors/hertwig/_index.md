@@ -22,49 +22,6 @@ user_groups: ["Researchers", "Visitors"]
 
 
 
-# Short bio (displayed in user profile at end of posts)
-#bio: PhD Candidate in Psychology, Center for Adaptive Rationality (ARC) at Max Planck Institute for Human Development
-
-# Education to show in About widget
-#education:
- #courses:
-  #- course: PhD in Artificial Intelligence
-   #institution: Stanford University
-    #year: 2012
-  #- course: MEng in Artificial Intelligence
-   #institution: Massachusetts Institute of Technology
-    #year: 2009
-  #- course: BSc in Artificial Intelligence
-    #institution: Massachusetts Institute of Technology
-    #year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-#social:
-#- icon: envelope
- # icon_pack: fas
- # link: 'mailto:geers@mpib-berlin.mpg.de'
-#- icon: twitter
- # icon_pack: fab
- # link: https://twitter.com/michael_geers_
-#- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
- # icon_pack: ai
- # link: https://scholar.google.com/citations?user=6gy4GbkAAAAJ&hl=en
-#- icon: researchgate
- # icon_pack: ai
- # link: https://www.researchgate.net/profile/Michael_Geers
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
