@@ -16,6 +16,6 @@ organizations:
 highlight_name: false
 
 authors:
-- <hertwig>
+- hertwig
 
 ---
