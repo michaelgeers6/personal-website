@@ -6,17 +6,13 @@ title: Ralph Hertwig
 superuser: true
 
 # Role/position/tagline
-role: Max Planck Institute for Human Development
+role: Max Planck Institute for Human Development, Center for Adaptive Rationality
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Max Planck Institute for Human Development
   url: https://www.mpib-berlin.mpg.de/en
   
-# Interests to show in About widget
-interests:
-- Center for Adaptive Rationality
-
 # Make person appear on website
 authors:
 - hertwig
