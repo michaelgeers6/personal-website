@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: Contact
 
-type: "docs"
+type: "widget_page"
 ---
