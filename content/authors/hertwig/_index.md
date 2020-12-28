@@ -14,7 +14,7 @@ organizations:
   #url: https://www.mpib-berlin.mpg.de/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate in Psychology, Center for Adaptive Rationality (ARC) at Max Planck Institute for Human Development
+#bio: PhD Candidate in Psychology, Center for Adaptive Rationality (ARC) at Max Planck Institute for Human Development
 
 # Interests to show in About widget
 #interests:
@@ -39,19 +39,19 @@ bio: PhD Candidate in Psychology, Center for Adaptive Rationality (ARC) at Max P
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:geers@mpib-berlin.mpg.de'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/michael_geers_
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=6gy4GbkAAAAJ&hl=en
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Michael_Geers
+#social:
+#- icon: envelope
+ # icon_pack: fas
+ # link: 'mailto:geers@mpib-berlin.mpg.de'
+#- icon: twitter
+ # icon_pack: fab
+ # link: https://twitter.com/michael_geers_
+#- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+ # icon_pack: ai
+ # link: https://scholar.google.com/citations?user=6gy4GbkAAAAJ&hl=en
+#- icon: researchgate
+ # icon_pack: ai
+ # link: https://www.researchgate.net/profile/Michael_Geers
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
