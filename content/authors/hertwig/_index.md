@@ -6,7 +6,7 @@ title: Ralph Hertwig
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Psychology
+role: Max Planck Institute for Human Development
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,7 +17,6 @@ organizations:
 authors:
 - hertwig
 
-user_groups: ["Researchers", "Visitors"]
 
 
 
