@@ -6,7 +6,7 @@ title: Ralph Hertwig
 superuser: true
 
 # Role/position/tagline
-role: **Max Planck Institute for Human Development** Center for Adaptive Rationality
+role: Max Planck Institute for Human Development <br /> Center for Adaptive Rationality
 
 # Organizations/Affiliations to show in About widget
 organizations:
