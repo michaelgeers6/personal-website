@@ -17,8 +17,7 @@ organizations:
 authors:
 - hertwig
 
-user_groups: "Researchers"
-
+user_groups: ["Researchers", "Visitors"]
 
 
 
