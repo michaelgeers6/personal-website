@@ -15,7 +15,8 @@ organizations:
   
 # Make person appear on website
 authors:
-- <hertwig>
+- hertwig
+
 
 
 
