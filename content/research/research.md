@@ -1,5 +1,6 @@
 ---
 title: 'Research'
+headless = false
 menu: 'research'
 ---
 
