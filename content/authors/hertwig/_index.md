@@ -17,6 +17,8 @@ organizations:
 authors:
 - hertwig
 
+user_groups: "Researchers"
+
 
 
 
