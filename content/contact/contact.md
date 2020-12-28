@@ -1,6 +1,8 @@
-### Contact
-
-<br>
+---
+title: 'Contact'
+weight: 40
+menu: 'contact'
+---
 
 Michael Geers
 
