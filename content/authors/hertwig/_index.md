@@ -12,6 +12,12 @@ role: PhD Candidate in Psychology
 organizations:
 - name: Max Planck Institute for Human Development
   #url: https://www.mpib-berlin.mpg.de/en
+  
+# Make person appear on website
+authors:
+- hertwig
+
+
 
 # Short bio (displayed in user profile at end of posts)
 #bio: PhD Candidate in Psychology, Center for Adaptive Rationality (ARC) at Max Planck Institute for Human Development
