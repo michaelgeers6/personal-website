@@ -6,15 +6,17 @@ title: Ralph Hertwig
 superuser: true
 
 # Role/position/tagline
-role:
-- name: Max Planck Institute for Human Development
-  url: https://www.mpib-berlin.mpg.de/en
+role: Max Planck Institute for Human Development
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Max Planck Institute for Human Development
   url: https://www.mpib-berlin.mpg.de/en
   
+# Interests to show in About widget
+interests:
+- Center for Adaptive Rationality
+
 # Make person appear on website
 authors:
 - hertwig
@@ -26,12 +28,6 @@ user_groups: ["Researchers", "Visitors"]
 
 # Short bio (displayed in user profile at end of posts)
 #bio: PhD Candidate in Psychology, Center for Adaptive Rationality (ARC) at Max Planck Institute for Human Development
-
-# Interests to show in About widget
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
 
 # Education to show in About widget
 #education:
