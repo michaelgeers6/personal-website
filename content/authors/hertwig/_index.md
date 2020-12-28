@@ -14,10 +14,10 @@ organizations:
   url: https://www.mpib-berlin.mpg.de/en
   
 # Make person appear on website
-authors:
-- hertwig
+#authors:
+#- hertwig
 
-user_groups: ["Researchers", "Visitors"]
+#user_groups: ["Researchers", "Visitors"]
 
 
 
