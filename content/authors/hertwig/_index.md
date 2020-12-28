@@ -3,7 +3,7 @@
 title: [Ralph Hertwig](https://www.mpib-berlin.mpg.de/staff/ralph-hertwig)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: **Max Planck Institute for Human Development**
