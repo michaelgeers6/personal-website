@@ -1,4 +1,6 @@
-## Contact
+### Contact
+
+<br>
 
 Michael Geers
 
