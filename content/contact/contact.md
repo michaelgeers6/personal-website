@@ -6,7 +6,7 @@ menu: 'contact'
 
 Michael Geers
 
-Center for Adaptive Rationality (ARC)
+Center for Adaptive Rationality
 
 Max Planck Institute for Human Development
 
