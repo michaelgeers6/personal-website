@@ -52,6 +52,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Michael_Geers
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-0602-5893
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
