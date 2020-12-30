@@ -81,4 +81,4 @@ I am interested in judgment and decision making broadly defined. My current work
 
 Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences at the University of Pennsylvania. I also completed an MSc in Marketing (Trinity College Dublin) and a BA in Business (Provadis School of International Management and Technology). See my {{% staticref "media/resume.pdf" "new tab" %}} CV{{% /staticref %}} for more on my background and experience.
 
-If you have thoughts or suggestions for my research, do get in touch! I'd be happy to hear from you.
+If you have thoughts or suggestions for my research, do get in touch! I would be happy to hear from you.
