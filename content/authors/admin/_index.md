@@ -77,7 +77,7 @@ highlight_name: false
 
 I am a doctoral student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality), [Max Planck Institute for Human Development (MPIB)](https://www.mpib-berlin.mpg.de/en) in Berlin, and a fellow of the [International Max Planck Research School on the Life Course (LIFE)](https://www.imprs-life.mpg.de).
 
-I am interested in judgment and decision making, broadly construed. My current work applies behavioral science insights and methods to understand important digital challenges and to develop interventions to mitigate them. Specifically, I study how to reduce the impact of misinformation and how to increase resilience to microtargeting.
+I am interested in judgment and decision making broadly defined. My current work applies behavioral science insights and methods to understand important digital challenges and to develop interventions to mitigate them. Specifically, I study how to reduce the impact of misinformation and how to increase resilience to microtargeting.
 
 Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences at the University of Pennsylvania. I also completed an MSc in Marketing (Trinity College Dublin) and a BA in Business (Provadis School of International Management and Technology). See my {{% staticref "media/resume.pdf" "new tab" %}} CV{{% /staticref %}} for more on my background and experience.
 
