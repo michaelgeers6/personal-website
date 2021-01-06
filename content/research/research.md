@@ -18,4 +18,4 @@ Tump, A.N., Lorenz-Spreen, P., **Geers, M.**, Herzog, S.M., Kurvers, R.H.J.M. Th
 
 Representative design in behavioral research on misinformation. With R. Hertwig, S.M. Herzog, A. Kozyreva, and S. Lewandowsky.
 
-Motives for sharing information on social media. With R. Hertwig, S.M. Herzog, A. Kozyreva, and P. Lorenz-Spreen.
+Beliefs and motives for sharing (false) information on social media. With R. Hertwig, S.M. Herzog, A. Kozyreva, and P. Lorenz-Spreen.
