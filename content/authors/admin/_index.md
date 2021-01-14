@@ -72,10 +72,9 @@ highlight_name: false
 
 # See my {{% staticref "media/resume.pdf" "newtab" %}} CV{{% /staticref %}} for more on my background and experience.
 
+#I identify as a computational social scientist, aiming to bridge the fields of cognitive psychology and data science.
 
 ---
-
-%I identify as a computational social scientist, aiming to bridge the fields of cognitive psychology and data science.
 
 I am a doctoral student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality), [Max Planck Institute for Human Development (MPIB)](https://www.mpib-berlin.mpg.de/en) in Berlin, and a fellow of the [International Max Planck Research School on the Life Course (LIFE)](https://www.imprs-life.mpg.de).
 
