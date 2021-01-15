@@ -73,6 +73,7 @@ highlight_name: false
 # See my {{% staticref "media/resume.pdf" "newtab" %}} CV{{% /staticref %}} for more on my background and experience.
 
 #I identify as a computational social scientist, aiming to bridge the fields of cognitive psychology and data science.
+#My research interests include cognitive psychology and computational social science.
 
 ---
 
