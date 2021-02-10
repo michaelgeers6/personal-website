@@ -16,6 +16,4 @@ Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & He
 
 Tump, A.N., Lorenz-Spreen, P., **Geers, M.**, Herzog, S.M., Kurvers, R.H.J.M. The role of response biases and time pressure on false news identification.
 
-Representative design in behavioral research on misinformation. With R. Hertwig, S.M. Herzog, A. Kozyreva, and S. Lewandowsky.
-
 Beliefs and motives for sharing (false) information on social media. With R. Hertwig, S.M. Herzog, A. Kozyreva, and P. Lorenz-Spreen.
