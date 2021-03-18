@@ -12,8 +12,10 @@ Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & He
 
 ## Selected Research in Progress
 
+**Geers, M.**, Lorenz-Spreen, P., Lewandowsky, S., Herzog, S.M. Inoculating against microtargeting.
+
 **Geers, M.**, Lorenz-Spreen, P., Hertwig, R., Lewandowsky, S., Herzog, S.M. The accuracy of people’s confidence in discerning true from false news.
 
 Tump, A.N., Lorenz-Spreen, P., **Geers, M.**, Herzog, S.M., Kurvers, R.H.J.M. The role of response biases and time pressure on false news identification.
 
-Beliefs and motives for sharing (false) information on social media. With R. Hertwig, S.M. Herzog, A. Kozyreva, and P. Lorenz-Spreen.
+Mechanisms underlying the sharing of (false) news on social media. With R. Hertwig, S.M. Herzog, A. Kozyreva, P. Lorenz-Spreen, and B. Swire-Thompson.
