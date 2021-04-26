@@ -14,7 +14,7 @@ Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & He
 
 **Geers, M.**, Lorenz-Spreen, P., Lewandowsky, S., Herzog, S.M. Inoculating against microtargeting.
 
-**Geers, M.**, Lorenz-Spreen, P., Hertwig, R., Lewandowsky, S., Herzog, S.M. The accuracy of people’s confidence in discerning true from false news.
+**Geers, M.**, Lorenz-Spreen, P., Hertwig, R., Lewandowsky, S., Herzog, S.M. The accuracy of people’s confidence in detecting misinformation.
 
 Tump, A.N., Lorenz-Spreen, P., **Geers, M.**, Herzog, S.M., Kurvers, R.H.J.M. The role of response biases and time pressure on false news identification.
 
