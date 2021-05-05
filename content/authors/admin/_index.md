@@ -77,10 +77,8 @@ highlight_name: false
 
 ---
 
-I am a second-year doctoral student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development (MPIB)](https://www.mpib-berlin.mpg.de/en) in Berlin. I'm also a fellow of the [International Max Planck Research School on the Life Course (LIFE)](https://www.imprs-life.mpg.de) and a team member of an [international research group](https://sks.to/rao) supported by the Volkswagen Foundation (funding initiative [Artificial Intelligence and the Society of the Future](http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=98515)).
+I'm a second-year doctoral student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development (MPIB)](https://www.mpib-berlin.mpg.de/en) in Berlin. I'm also a fellow of the [International Max Planck Research School on the Life Course (LIFE)](https://www.imprs-life.mpg.de) and a team member of an [international research group](https://sks.to/rao) supported by the Volkswagen Foundation (funding initiative [Artificial Intelligence and the Society of the Future](http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=98515)).
 
 My research interests are in the psychology of human judgment and decision making broadly defined. Currently, my work leverages insights and methods from behavioral science and computational social science to understand important digital challenges and to develop interventions to mitigate them. Specifically, I study how to reduce the impact of misinformation and how to increase cognitive resilience to microtargeting.
 
 Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences at the University of Pennsylvania. I also completed an MSc in Marketing (Trinity College Dublin) and a BA in Business (Provadis School of International Management and Technology). See my {{% staticref "media/resume.pdf" "new tab" %}} CV{{% /staticref %}} for more on my background and experience.
-
-If you have thoughts or suggestions for my research, do get in touch! I would be happy to hear from you.
