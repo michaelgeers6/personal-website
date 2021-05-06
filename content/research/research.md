@@ -12,7 +12,7 @@ Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & He
 
 ## Selected Research in Progress
 
-**Geers, M.**, Fischer, H., Lewandowsky, S., Herzog, S.M. The accuracy of people’s confidence in detecting misinformation.
+**Geers, M.**, Fischer, H., Lewandowsky, S., Herzog, S.M. Metacognition in an age of misinformation.
 
 **Geers, M.**, Lorenz-Spreen, P., Lewandowsky, S., Herzog, S.M. Inoculating against microtargeting.
 
