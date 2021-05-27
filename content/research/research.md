@@ -6,7 +6,7 @@ menu: 'research'
 
 ## Working Papers
 
-Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M. (2020, November 19). A simple self-reflection intervention boosts the detection of microtargeted advertising. R&R -- _Scientific Reports_. https://doi.org/10.31234/osf.io/ea28z *denotes equal contribution
+Lorenz-Spreen, P.\*, **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M.\* (2020, November 19). A simple self-reflection intervention boosts the detection of microtargeted advertising. R&R -- _Scientific Reports_. https://doi.org/10.31234/osf.io/ea28z *denotes equal contribution
 
 <br>
 
