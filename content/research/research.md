@@ -6,7 +6,7 @@ menu: 'research'
 
 ## Publications
 
-Lorenz-Spreen, P.\*, **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M.\* (in press). Boosting people’s ability to detect microtargeted advertising. _Scientific Reports_. *denotes equal contribution
+Lorenz-Spreen, P.\*, **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M.\* (in press). [Boosting people’s ability to detect microtargeted advertising](https://doi.org/10.1038/s41598-021-94796-z). _Scientific Reports_. *denotes equal contribution
 
 <br>
 
