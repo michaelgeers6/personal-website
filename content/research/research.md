@@ -4,9 +4,9 @@ menu: 'research'
 ---
 
 
-## Working Papers
+## Publications
 
-Lorenz-Spreen, P.\*, **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M.\* Boosting people’s ability to detect microtargeted advertising. Revise and resubmit at _Scientific Reports_. https://doi.org/10.31234/osf.io/ea28z *denotes equal contribution
+Lorenz-Spreen, P.\*, **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M.\* (in press). Boosting people’s ability to detect microtargeted advertising. _Scientific Reports_. *denotes equal contribution
 
 <br>
 
