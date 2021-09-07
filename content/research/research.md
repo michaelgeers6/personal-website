@@ -12,9 +12,12 @@ Lorenz-Spreen, P.\*, **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & 
 
 ## Selected Research in Progress
 
-**Geers, M.**, Fischer, H., Lewandowsky, S., Herzog, S.M. Metacognition in an age of misinformation.
+Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R., Sultan, M., van der Linden, S.
+Measuring susceptibility to misinformation is robust across question framings and response modes.
 
-**Geers, M.**, Lorenz-Spreen, P., Lewandowsky, S., Herzog, S.M. Inoculating against microtargeting.
+**Geers, M.**, Fischer, H., Lewandowsky, S., Herzog, S.M. Metacognitive accuracy in detecting political misinformation.
+
+**Geers, M.**, Lorenz-Spreen, P., Hertwig, R., Lewandowsky, S., Herzog, S.M. Inoculating against psychological targeting.
 
 Tump, A.N., Lorenz-Spreen, P., **Geers, M.**, Herzog, S.M., Kurvers, R.H.J.M. The role of response biases and time pressure on false news identification.
 
