@@ -81,6 +81,6 @@ I'm a second-year doctoral student in Psychology at the [Center for Adaptive Rat
 
 My research interests are in the psychology of human judgment and decision making broadly defined. Currently, my work leverages insights and methods from behavioral science and computational social science to understand important digital challenges and to develop interventions to mitigate them. Specifically, I study how to reduce the impact of misinformation and how to increase cognitive resilience to microtargeting.
 
-My research draws on a range of empirical methods, including surveys, laboratory experiments, and hybrid lab-field studies.
+My research draws on a range of empirical methods, including surveys, laboratory experiments, secondary data analysis, and hybrid lab-field studies.
 
 Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences at the University of Pennsylvania. I also completed an MSc in Marketing (Trinity College Dublin) and a BA in Business (Provadis School of International Management and Technology). See my {{% staticref "media/resume.pdf" "new tab" %}} CV{{% /staticref %}} for more on my background and experience.
