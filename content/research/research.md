@@ -12,7 +12,7 @@ Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & He
 
 ## Working Papers
 
-Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. Measuring susceptibility to misinformation is robust across question framings and response modes.
+Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. Measuring susceptibility to misinformation is robust across question framings and response modes. Under review at _Behavior Research Methods_.
 
 <br>
 
@@ -20,8 +20,8 @@ Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Su
 
 **Geers, M.**, Fischer, H., Lewandowsky, S., & Herzog, S.M. Metacognitive accuracy in detecting political misinformation.
 
-**Geers, M.**, Lorenz-Spreen, P., Hertwig, R., Lewandowsky, S., & Herzog, S.M. Inoculating against psychological targeting.
+**Geers, M.**, Lorenz-Spreen, P., Hertwig, R., Lewandowsky, S., & Herzog, S.M. Inoculating against microtargeting.
 
-Tump, A.N., Lorenz-Spreen, P., **Geers, M.**, Herzog, S.M., & Kurvers, R.H.J.M. The role of response biases and time pressure on false news identification.
+**Geers, M.**, Lorenz-Spreen, P., Kozyreva, A., Hertwig, R., Herzog, S.M., & B. Swire-Thompson. Understanding the sharing of online misinformation across the lifespan.
 
-Understanding the sharing of misinformation on social media. With R. Hertwig, S.M. Herzog, A. Kozyreva, P. Lorenz-Spreen, & B. Swire-Thompson.
+Public attitudes towards digital field experiments. With V. Straub & J. Burton.
