@@ -14,7 +14,7 @@ Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & He
 
 Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. Measuring susceptibility to misinformation is robust across question framings and response modes.
 
-Sultan, M., Tump, A.N., **Geers, M.**, Herzog, S.M., Lorenz-Spreen, P., & Kurvers, R.H.J.M. Time constraint reduces discrimination ability but not response bias when identifying misinformation.
+Sultan, M., Tump, A.N., **Geers, M.**, Herzog, S.M., Lorenz-Spreen, P., & Kurvers, R.H.J.M. Time pressure reduces misinformation discrimination ability but not response bias.
 
 <br>
 
@@ -22,8 +22,10 @@ Sultan, M., Tump, A.N., **Geers, M.**, Herzog, S.M., Lorenz-Spreen, P., & Kurver
 
 **Geers, M.**, Fischer, H., Lewandowsky, S., & Herzog, S.M. Metacognitive accuracy in detecting political misinformation.
 
+Lorenz-Spreen, P., Kozyreva, A., **Geers, M.**, Swire-Thompson, B., Herzog, S.M., & Hertwig, R. How do motives for sharing relate to content features on Twitter?
+
 **Geers, M.**, Lorenz-Spreen, P., Hertwig, R., Lewandowsky, S., & Herzog, S.M. Inoculating against microtargeted advertising.
 
 **Geers, M.**, Lorenz-Spreen, P., Kozyreva, A., Hertwig, R., Herzog, S.M., & B. Swire-Thompson. Motives for sharing misinformation on Twitter across the lifespan.
 
-Straub, V., Burton, J., \& **Geers, M.** American attitudes toward digital field experiments.
+Straub, V., Burton, J., & **Geers, M.** American attitudes toward digital field experiments.
