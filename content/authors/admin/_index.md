@@ -79,7 +79,7 @@ highlight_name: false
 
 I'm a third-year doctoral student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin. I'm also a team member of the [Reclaiming Individual Autonomy and Democratic Discourse Online project](https://www.notion.so/reclaimingautonomyonline/Reclaiming-individual-autonomy-and-democratic-discourse-online-bed7c964bc8740898d68b9a4f7c71ee3) (funded by a [Volkswagen Foundation grant](http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=98515)), which aims to make the Internet a better place.
 
-My research sits at the nexus of experimental psychology and computational social science, focusing on the pressure points between human cognition and online technologies. To that end, I seek to better understand important digital challenges and to develop interventions to mitigate them. Specifically, I study how to reduce the impact of misinformation and how to increase cognitive resilience to microtargeted advertising.
+My research sits at the nexus of experimental psychology and computational social science, focusing on the pressure points between human cognition and online technologies. To this end, I seek to better understand important digital challenges and to develop interventions to mitigate them. Specifically, I study how to reduce the impact of misinformation and how to increase cognitive resilience to microtargeted advertising.
 
 My research draws on a range of empirical methods, including surveys, laboratory experiments, secondary data analyses, and hybrid lab-field studies.
 
