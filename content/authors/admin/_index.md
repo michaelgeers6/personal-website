@@ -6,7 +6,7 @@ title: Michael Geers
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Psychology
+role: PhD student in Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
