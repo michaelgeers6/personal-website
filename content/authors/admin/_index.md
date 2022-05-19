@@ -14,7 +14,7 @@ organizations:
   #url: https://www.mpib-berlin.mpg.de/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate in Psychology, Center for Adaptive Rationality at the Max Planck Institute for Human Development
+bio: PhD student in Psychology, Center for Adaptive Rationality at the Max Planck Institute for Human Development
 
 # Interests to show in About widget
 #interests:
