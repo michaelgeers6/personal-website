@@ -79,6 +79,6 @@ highlight_name: false
 
 I am a third-year PhD student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin.
 
-My research investigates the psychology of consumer behavior and decision making. It currently comprises two major streams. The first explores the cognitive and social processes involved in believing and sharing misinformation. The second explores how consumers can be empowered to make better decisions.
+My research investigates the psychology of consumer behavior and decision making. It currently comprises two major streams. The first explores the cognitive and social processes involved in believing and sharing misinformation. The second explores how to empower consumers to make better decisions.
 
 Prior to graduate school, I earned a Master of Behavioral and Decision Sciences from the University of Pennsylvania. I also completed an MSc in Marketing (Trinity College Dublin) and a BA in Business Administration (Provadis School of International Management and Technology).
