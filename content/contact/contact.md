@@ -20,9 +20,9 @@ Phone: +49 30 82406-329
 
 <br>
 
-#[MPIB profile](https://www.mpib-berlin.mpg.de/staff/michael-geers)
+%[MPIB profile](https://www.mpib-berlin.mpg.de/staff/michael-geers)
 
-#[LIFE profile](https://www.imprs-life.mpg.de/people/fellows/105915)
+%[LIFE profile](https://www.imprs-life.mpg.de/people/fellows/105915)
 
 <br>
 
