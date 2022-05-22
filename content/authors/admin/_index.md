@@ -81,4 +81,4 @@ I am a third-year PhD student in Psychology at the [Center for Adaptive Rational
 
 My research investigates the psychology of consumer judgment and decision making. Specifically, I seek to better understand the pressure points between consumer behavior and online technologies, including misinformation and microtargeting, and to develop interventions to mitigate them. To achieve this, I use a combination of online, laboratory, and field experimental methods, and draw on insights from consumer research, psychology, and computational social science.
 
-Prior to graduate school, I earned a Master of Behavioral and Decision Sciences from the University of Pennsylvania. I also completed an MSc in Marketing (Trinity College Dublin; with distinction) and a BA in Business Administration (Provadis School of International Management and Technology).
+Prior to graduate school, I earned a Master of Behavioral and Decision Sciences from the University of Pennsylvania. I also completed an MSc in Marketing with distinction (Trinity College Dublin) and a BA in Business Administration (Provadis School of International Management and Technology).
