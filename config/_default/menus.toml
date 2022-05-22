@@ -30,6 +30,11 @@
   name = "Contact"
   url = "contact/"
   weight = 50
+  
+[[main]]
+  name = "Max Planck Profile"
+  url = "profile/"
+  weight = 60
  
 
 
