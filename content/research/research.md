@@ -22,7 +22,7 @@ Sultan, M., Tump, A.N., **Geers, M.**, Herzog, S.M., Lorenz-Spreen, P., & Kurver
 
 **Geers, M.**, Fischer, H., Lewandowsky, S., & Herzog, S.M. Metacognitive accuracy in detecting political misinformation.
 
-**Geers, M.**, Lorenz-Spreen, P., Teich, P. &ast, Hertwig, R., Lewandowsky, S., \& Herzog, S.M. Inoculating against microtargeted advertising. *denotes student mentee
+**Geers, M.**, Lorenz-Spreen, P., Teich, P.\*, Hertwig, R., Lewandowsky, S., \& Herzog, S.M. Inoculating against microtargeted advertising. *denotes student mentee
 
 Lorenz-Spreen, P., Kozyreva, A., **Geers, M.**, Swire-Thompson, B., Herzog, S.M., & Hertwig, R. How do motives for sharing relate to content features on Twitter?
 
