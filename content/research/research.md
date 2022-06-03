@@ -6,13 +6,13 @@ menu: 'research'
 
 ## Publications
 
+Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. (2022). Measuring susceptibility to misinformation is robust across question framings and response modes.
+
 Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M. (2021). [Boosting people’s ability to detect microtargeted advertising](https://doi.org/10.1038/s41598-021-94796-z). _Scientific Reports_, 11(1), 1-9.
 
 <br>
 
 ## Working Papers
-
-Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. Measuring susceptibility to misinformation is robust across question framings and response modes.
 
 Sultan, M., Tump, A.N., **Geers, M.**, Herzog, S.M., Lorenz-Spreen, P., & Kurvers, R.H.J.M. Time pressure reduces misinformation discrimination ability but not response bias.
 
