@@ -6,7 +6,7 @@ menu: 'research'
 
 ## Publications
 
-Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. (2022). [Measuring susceptibility to misinformation is robust across question framings and response modes](http://journal.sjdm.org/22/220228/jdm220228.pdf). _Judgment and Decision Making_, 17(3), 547–573.
+Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. (2022). [Susceptibility to misinformation is consistent across question framings and response modes and better explained by myside bias and partisanship than analytical thinking](http://journal.sjdm.org/22/220228/jdm220228.pdf). _Judgment and Decision Making_, 17(3), 547–573.
 
 Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M. (2021). [Boosting people’s ability to detect microtargeted advertising](https://doi.org/10.1038/s41598-021-94796-z). _Scientific Reports_, 11(1), 1-9.
 
