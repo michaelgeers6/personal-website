@@ -23,7 +23,7 @@
 # See my {{% staticref "media/resume.pdf" "newtab" %}} CV{{% /staticref %}} for more on my background and experience.
 [[main]]
   name = "CV"
-  url = {{% staticref "media/resume.pdf" "newtab" %}
+  url = "media/resume.pdf"
   weight = 40
 
 [[main]]
