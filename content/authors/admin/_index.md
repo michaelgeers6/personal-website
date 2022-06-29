@@ -85,9 +85,7 @@ Prior to graduate school, I earned a Master of Behavioral and Decision Sciences 
 
 <br>
 
-**Publications:**
-
-**(updated June 2022)**
+**Publications (updated June 2022):**
 
 Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. (2022). [Susceptibility to misinformation is consistent across question framings and response modes and better explained by myside bias and partisanship than analytical thinking](http://journal.sjdm.org/22/220228/jdm220228.pdf). _Judgment and Decision Making_, 17(3), 547–573.
 
