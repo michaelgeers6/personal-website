@@ -5,9 +5,13 @@ menu: 'research'
 
 My research investigates the psychology of consumer judgment and decision making. Specifically, I seek to better understand the intersection between consumer behavior and online technologies, particularly pertaining to misinformation and microtargeting, and to develop interventions to mitigate them. To achieve this, I use a combination of online, laboratory, and field experimental methods, and draw on insights from consumer research, psychology, and computational social science.
 
+<br>
+
 **Research on Understanding Digital Challenges**
 
 My research investigates when and why consumers are susceptible to believing and sharing misinformation. First, to better understand belief in misinformation, my co-authors and I examine how aware consumers are of their own errors in detecting political misinformation and show that several psychological factors can explain interindividual differences in this self-awareness. In two related projects, we find that actively open-minded thinking is a better predictor of susceptibility to misinformation than the popular Cognitive Reflection Test (Roozenbeek et al., 2022), and that susceptibility to misinformation increases with time pressure (Sultan et al., submitted). Second, to better understand sharing of misinformation, my co-authors and I plan to conduct a hybrid-lab field study on Twitter. This study will allow us to examine why older (vs. younger) adults share substantially more misinformation online. In a follow-up study, we plan to extend this project by linking motives for sharing to content features beyond veracity on Twitter.
+
+<br>
 
 **Research on Empowering Consumers**
 
