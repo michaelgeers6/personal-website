@@ -3,31 +3,12 @@ title: 'Research'
 menu: 'research'
 ---
 
+My research investigates the psychology of consumer judgment and decision making. Specifically, I seek to better understand the intersection between consumer behavior and online technologies, particularly pertaining to misinformation and microtargeting, and to develop interventions to mitigate them. To achieve this, I use a combination of online, laboratory, and field experimental methods, and draw on insights from consumer research, psychology, and computational social science.
 
-%## Publications
+**Research on Understanding Digital Challenges**
 
-Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. (2022). [Susceptibility to misinformation is consistent across question framings and response modes and better explained by myside bias and partisanship than analytical thinking](http://journal.sjdm.org/22/220228/jdm220228.pdf). _Judgment and Decision Making_, 17(3), 547–573.
+My research investigates when and why consumers are susceptible to believing and sharing misinformation. First, to better understand belief in misinformation, my co-authors and I examine how aware consumers are of their own errors in detecting political misinformation and show that several psychological factors can explain interindividual differences in this self-awareness. In two related projects, we find that actively open-minded thinking is a better predictor of susceptibility to misinformation than the popular Cognitive Reflection Test (Roozenbeek et al., 2022), and that susceptibility to misinformation increases with time pressure (Sultan et al., submitted). Second, to better understand sharing of misinformation, my co-authors and I plan to conduct a hybrid-lab field study on Twitter. This study will allow us to examine why older (vs. younger) adults share substantially more misinformation online. In a follow-up study, we plan to extend this project by linking motives for sharing to content features beyond veracity on Twitter.
 
-Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M. (2021). [Boosting people’s ability to detect microtargeted advertising](https://doi.org/10.1038/s41598-021-94796-z). _Scientific Reports_, 11(1), 1-9.
+**Research on Empowering Consumers**
 
-<br>
-
-## Working Papers
-
-Sultan, M., Tump, A.N., **Geers, M.**, Herzog, S.M., Lorenz-Spreen, P., & Kurvers, R.H.J.M. Time pressure reduces misinformation discrimination ability but not response bias.
-
-<br>
-
-## Selected Research in Progress
-
-**Geers, M.**, Fischer, H., Lewandowsky, S., & Herzog, S.M. Metacognitive accuracy in detecting political misinformation.
-
-**Geers, M.**, Lorenz-Spreen, P., Teich, P.\*, Hertwig, R., Lewandowsky, S., \& Herzog, S.M. Inoculating against microtargeted advertising. *denotes student mentee
-
-Lorenz-Spreen, P., Kozyreva, A., **Geers, M.**, Swire-Thompson, B., Herzog, S.M., & Hertwig, R. How do motives for sharing relate to content features on Twitter?
-
-**Geers, M.**, Herzog, S.M., \& Hertwig, R. Conceptualizing nudging and boosting in consumer research.
-
-**Geers, M.**, Lorenz-Spreen, P., Kozyreva, A., Hertwig, R., Herzog, S.M., & B. Swire-Thompson. Motives for sharing misinformation on Twitter across the lifespan.
-
-Straub, V., Burton, J., & **Geers, M.** American attitudes toward digital field experiments.
+In a related line of research, my co-authors and I integrate previously disconnected work on behavioral and cognitive interventions—nudging and boosting—with consumer behavior research. Applying this conceptual work, we seek to strengthen people’s resilience to microtargeting—manipulative ads that target people based on aspects of their personality—by getting them to reflect on their own personality first. We have shown that people can learn to identify ads that target them (Lorenz-Spreen et al., 2021) and we are now in the process of testing whether better detection of targeting attenuates its impact. My work on microtargeting has important implications for empowering consumers in an increasingly digital world.
