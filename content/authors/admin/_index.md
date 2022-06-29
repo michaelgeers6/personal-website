@@ -77,7 +77,7 @@ highlight_name: false
 
 ---
 
-I am a third-year **PhD student in Psychology** at the **[Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en)** in Berlin.
+I am a third-year PhD student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin.
 
 My research investigates the psychology of consumer judgment and decision making. Specifically, I seek to better understand the pressure points between consumer behavior and online technologies, including misinformation and microtargeting, and to develop interventions to mitigate them. To achieve this, I use a combination of online, laboratory, and field experimental methods, and draw on insights from consumer research, psychology, and computational social science.
 
