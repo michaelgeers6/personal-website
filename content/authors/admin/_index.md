@@ -83,6 +83,8 @@ My research investigates the psychology of consumer judgment and decision making
 
 Prior to graduate school, I earned a Master of Behavioral and Decision Sciences from the University of Pennsylvania. I also completed an MSc in Marketing with distinction (Trinity College Dublin) and a BA in Business Administration (Provadis School of International Management and Technology).
 
+<br>
+
 Publications:
 (updated June 2022)
 
