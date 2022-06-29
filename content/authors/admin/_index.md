@@ -82,3 +82,10 @@ I am a third-year PhD student in Psychology at the [Center for Adaptive Rational
 My research investigates the psychology of consumer judgment and decision making. Specifically, I seek to better understand the pressure points between consumer behavior and online technologies, including misinformation and microtargeting, and to develop interventions to mitigate them. To achieve this, I use a combination of online, laboratory, and field experimental methods, and draw on insights from consumer research, psychology, and computational social science.
 
 Prior to graduate school, I earned a Master of Behavioral and Decision Sciences from the University of Pennsylvania. I also completed an MSc in Marketing with distinction (Trinity College Dublin) and a BA in Business Administration (Provadis School of International Management and Technology).
+
+Publications:
+(updated June 2022)
+
+Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. (2022). [Susceptibility to misinformation is consistent across question framings and response modes and better explained by myside bias and partisanship than analytical thinking](http://journal.sjdm.org/22/220228/jdm220228.pdf). _Judgment and Decision Making_, 17(3), 547–573.
+
+Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M. (2021). [Boosting people’s ability to detect microtargeted advertising](https://doi.org/10.1038/s41598-021-94796-z). _Scientific Reports_, 11(1), 1-9.
