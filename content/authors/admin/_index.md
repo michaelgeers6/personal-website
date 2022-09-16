@@ -77,13 +77,13 @@ highlight_name: false
 
 ---
 
-I am a third-year PhD student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin.
+I am a third-year PhD student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin. As part of the [Reclaiming Individual Autonomy and Democratic Discourse Online (RAO) project](https://www.notion.so/reclaimingautonomyonline/Reclaiming-individual-autonomy-and-democratic-discourse-online-bed7c964bc8740898d68b9a4f7c71ee3) (funded by a [Volkswagen Foundation grant](http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=98515)), my research seeks to make the Internet a better place. During my doctoral studies, I also spent some time as a visiting PhD student at the [Network Science Institute](https://www.networkscienceinstitute.org) at Northeastern University.
 
-Prior to my doctoral studies, I earned a Master of Behavioral and Decision Sciences from the University of Pennsylvania. I also completed an MSc in Marketing with distinction (Trinity College Dublin) and a BA in Business Administration (Provadis School of International Management and Technology).
+Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences from the University of Pennsylvania. I also completed an MSc in Marketing with distinction (Trinity College Dublin) and a BA in Business Administration (Provadis School of International Management and Technology).
 
 <br>
 
-**Publications (updated August 2022):**
+**Publications (updated September 2022):**
 
 Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. (2022). [Susceptibility to misinformation is consistent across question framings and response modes and better explained by myside bias and partisanship than analytical thinking](http://journal.sjdm.org/22/220228/jdm220228.pdf). _Judgment and Decision Making_, 17(3), 547–573.
 
