@@ -83,7 +83,11 @@ Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences from
 
 <br>
 
-**Publications (updated September 2022):**
+**Publications and working papers (updated December 2022):**
+
+Kozyreva, A., Lorenz-Spreen, P., ..., **Geers, M.**, ..., & Wineburg, S. [Toolbox of interventions against online misinformation and manipulation](https://psyarxiv.com/x8ejt).
+
+Sultan, M., Tump, A. N., **Geers, M.**, Lorenz-Spreen, P., Herzog, S., & Kurvers, R. (in press). [Time Pressure Reduces Misinformation Discrimination Ability But Not Response Bias](https://psyarxiv.com/brn5s/). _Scientific Reports_.
 
 Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. (2022). [Susceptibility to misinformation is consistent across question framings and response modes and better explained by myside bias and partisanship than analytical thinking](http://journal.sjdm.org/22/220228/jdm220228.pdf). _Judgment and Decision Making_, 17(3), 547–573.
 
