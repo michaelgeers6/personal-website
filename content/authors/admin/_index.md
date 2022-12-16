@@ -85,7 +85,7 @@ Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences from
 
 **Publications and working papers (updated December 2022):**
 
-Kozyreva, A., ..., **Geers, M.**, ..., & Wineburg, S. [Toolbox of interventions against online misinformation and manipulation](https://psyarxiv.com/x8ejt).
+Kozyreva, A., ..., **Geers, M.**, ..., & Wineburg, S. [Toolbox of interventions against online misinformation and manipulation](https://psyarxiv.com/x8ejt). _PsyArXiv_.
 
 Sultan, M., Tump, A. N., **Geers, M.**, Lorenz-Spreen, P., Herzog, S., & Kurvers, R. (in press). [Time Pressure Reduces Misinformation Discrimination Ability But Not Response Bias](https://psyarxiv.com/brn5s/). _Scientific Reports_.
 
