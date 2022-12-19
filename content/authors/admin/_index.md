@@ -83,7 +83,7 @@ Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences from
 
 <br>
 
-**Publications and Working Papers (updated December 2022):**
+**Publications and working papers (updated December 2022):**
 
 Kozyreva, A., Lorenz-Spreen, P., Herzog, S., Ecker, U., Lewandowsky, S., Hertwig, R., ..., **Geers, M.**, ..., & Wineburg, S. [Toolbox of interventions against online misinformation and manipulation](https://psyarxiv.com/x8ejt). _PsyArXiv_.
 
