@@ -3,7 +3,7 @@ title: 'Research'
 menu: 'research'
 ---
 
-My research investigates the psychology of consumer judgment and decision making. Specifically, I seek to better understand the intersection between consumer behavior and online technologies, currently pertaining to misinformation and microtargeting, and to develop interventions to mitigate these challenges. To achieve this, I use a combination of online, laboratory, and field experimental methods, and draw on insights from consumer research, psychology, and computational social science
+My research investigates the psychology of consumer judgment and decision making. Specifically, I seek to better understand the intersection between consumer behavior and online technologies, currently pertaining to misinformation and microtargeting, and to develop interventions to mitigate these challenges. To achieve this, I use a combination of online, laboratory, and field experimental methods, and draw on insights from consumer research, psychology, and computational social science.
 
 <br>
 
