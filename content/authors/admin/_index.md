@@ -87,7 +87,7 @@ Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences from
 
 Kozyreva, A., Lorenz-Spreen, P., Herzog, S., Ecker, U., Lewandowsky, S., Hertwig, R., ..., **Geers, M.**, ..., & Wineburg, S. [Toolbox of interventions against online misinformation and manipulation](https://psyarxiv.com/x8ejt). _PsyArXiv_.
 
-Sultan, M., Tump, A. N., **Geers, M.**, Lorenz-Spreen, P., Herzog, S., & Kurvers, R. (2022). [Time pressure reduces misinformation discrimination ability but does not alter response bias](https://psyarxiv.com/brn5s/). _Scientific Reports_, 12(1), 1-12.
+Sultan, M., Tump, A. N., **Geers, M.**, Lorenz-Spreen, P., Herzog, S., & Kurvers, R. (2022). [Time pressure reduces misinformation discrimination ability but does not alter response bias]([https://psyarxiv.com/brn5s/](https://www.nature.com/articles/s41598-022-26209-8)). _Scientific Reports_, 12(1), 1-12.
 
 Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. (2022). [Susceptibility to misinformation is consistent across question framings and response modes and better explained by myside bias and partisanship than analytical thinking](http://journal.sjdm.org/22/220228/jdm220228.pdf). _Judgment and Decision Making_, 17(3), 547–573.
 
