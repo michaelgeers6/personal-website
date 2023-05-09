@@ -85,7 +85,7 @@ Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences from
 
 **Publications and working papers (updated May 2023):**
 
-Kozyreva, A., Lorenz-Spreen, P., Herzog, S.M., Ecker, U.K. H., Lewandowsky, S., Hertwig, R., Basol M., Berinsky, A.J., Betsch, C., Cook, J., Fazio, L.K., **Geers, M.**, Guess, A. M., Maertens, R., Panizza, F., Pennycook, G., Rand, D., Rathje, S., Rei er, J., Roozenbeek, J., Schmid, P., Smith, M., Swire- Thomson, B., Szewach, P., van der Linden, S., & Wineburg, S. [Toolbox of interventions against online misinformation and manipulation](https://psyarxiv.com/x8ejt). Under review at _Nature Human Behaviour_.
+Kozyreva, A., Lorenz-Spreen, P., Herzog, S.M., Ecker, U.K. H., Lewandowsky, S., Hertwig, R., Basol M., Berinsky, A.J., Betsch, C., Cook, J., Fazio, L.K., **Geers, M.**, Guess, A. M., Maertens, R., Panizza, F., Pennycook, G., Rand, D., Rathje, S., Reifler, J., Roozenbeek, J., Schmid, P., Smith, M., Swire- Thomson, B., Szewach, P., van der Linden, S., & Wineburg, S. [Toolbox of interventions against online misinformation and manipulation](https://psyarxiv.com/x8ejt). Under review at _Nature Human Behaviour_.
 
 **Geers, M.** Linking lab and field research. Invited submission for _Nature Reviews Psychology_.
 
