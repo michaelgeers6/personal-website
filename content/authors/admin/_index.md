@@ -85,7 +85,7 @@ Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences from
 
 <br>
 
-**Publications and working papers (updated July 2023):**
+**Publications and working papers (updated August 2023):**
 
 **Geers, M.**, Fischer, H., Lewandowsky, S., & Herzog, S.M. The political (a)symmetry of metacognitive insight into detecting misinformation.
 
