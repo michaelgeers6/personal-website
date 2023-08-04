@@ -79,7 +79,7 @@ highlight_name: false
 
 I am a fourth-year PhD student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin.
 
-As part of the [Reclaiming Individual Autonomy and Democratic Discourse Online (RAO) project](https://www.notion.so/reclaimingautonomyonline/Reclaiming-individual-autonomy-and-democratic-discourse-online-bed7c964bc8740898d68b9a4f7c71ee3) (funded by a [Volkswagen Foundation grant](http://portal.volkswagenstiftung.de/search/projectDetails.do?ref=98515)), my research seeks to better understand the intersection between consumer behavior and online technologies, currently pertaining to misinformation and microtargeting, and to develop interventions to mitigate these challenges.
+My research primarily focuses on consumer behavior in online environments, currently pertaining to misinformation and microtargeting.
 
 Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences from the University of Pennsylvania. I also completed an MSc in Marketing with distinction (Trinity College Dublin) and a BA in Business Administration (Provadis School of International Management and Technology).
 
