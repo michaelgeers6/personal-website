@@ -83,6 +83,8 @@ My research primarily focuses on consumer behavior in digital environments, curr
 
 Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences from the University of Pennsylvania. I also completed an MSc in Marketing with distinction (Trinity College Dublin) and a BA in Business Administration (Provadis School of International Management and Technology).
 
+I am on the 2023--2024 job market for assistant faculty and postdoc positions.
+
 <br>
 
 **Publications (updated November 2023):**
