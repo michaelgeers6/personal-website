@@ -85,13 +85,9 @@ Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences from
 
 <br>
 
-**Publications and working papers (updated September 2023):**
+**Publications (updated November 2023):**
 
-**Geers, M.**, Swire-Thompson, B., Lorenz-Spreen, P., Herzog, S.M., Kozyreva, A., & Hertwig, R. The online misinformation engagement framework. Invited submission for _Current Opinion in Psychology_.
-
-Kozyreva, A., Lorenz-Spreen, P., Herzog, S.M., Ecker, U.K. H., Lewandowsky, S., Hertwig, R., Basol M., Berinsky, A.J., Betsch, C., Cook, J., Fazio, L.K., **Geers, M.**, Guess, A. M., Maertens, R., Panizza, F., Pennycook, G., Rand, D., Rathje, S., Reifler, J., Roozenbeek, J., Schmid, P., Smith, M., Swire- Thomson, B., Szewach, P., van der Linden, S., & Wineburg, S. [Toolbox of interventions against online misinformation and manipulation](https://psyarxiv.com/x8ejt). R&R at _Nature Human Behaviour_.
-
-**Geers, M.**, Fischer, H., Lewandowsky, S., & Herzog, S.M. The political (a)symmetry of metacognitive insight into detecting misinformation. Under review at _Journal of Experimental Psychology: General_.
+**Geers, M.**, Swire-Thompson, B., Lorenz-Spreen, P., Herzog, S.M., Kozyreva, A., & Hertwig, R. (in press). The online misinformation engagement framework. _Current Opinion in Psychology_.
 
 **Geers, M.** (2023). [Linking lab and field research](https://rdcu.be/dgtB8). _Nature Reviews Psychology_.
 
