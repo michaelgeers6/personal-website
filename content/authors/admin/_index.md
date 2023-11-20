@@ -91,7 +91,7 @@ I am on the 2023--2024 job market for assistant faculty and postdoc positions.
 
 **Geers, M.**, Swire-Thompson, B., Lorenz-Spreen, P., Herzog, S.M., Kozyreva, A., & Hertwig, R. (in press). The online misinformation engagement framework. _Current Opinion in Psychology_.
 
-**Geers, M.** (2023). [Linking lab and field research](https://rdcu.be/dgtB8). _Nature Reviews Psychology_.
+**Geers, M.** (2023). [Linking lab and field research](https://rdcu.be/dgtB8). _Nature Reviews Psychology_, 2(8), 458.
 
 Sultan, M., Tump, A. N., **Geers, M.**, Lorenz-Spreen, P., Herzog, S., & Kurvers, R. (2022). [Time pressure reduces misinformation discrimination ability but does not alter response bias](https://doi.org/10.1038/s41598-022-26209-8). _Scientific Reports_, 12(1), 1-12.
 
