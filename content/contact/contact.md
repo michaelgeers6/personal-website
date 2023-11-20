@@ -16,7 +16,7 @@ Lentzeallee 94, 14195 Berlin, Germany
 
 Email: geers@mpib-berlin.mpg.de
 
-Phone: +49 30 82406-329
+Phone: +49 30 82406-0
 
 <br>
 
