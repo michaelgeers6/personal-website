@@ -89,7 +89,7 @@ I am on the 2023--2024 job market for assistant faculty and postdoc positions.
 
 **Publications (updated November 2023):**
 
-**Geers, M.**, Swire-Thompson, B., Lorenz-Spreen, P., Herzog, S.M., Kozyreva, A., & Hertwig, R. (in press). The online misinformation engagement framework. _Current Opinion in Psychology_.
+**Geers, M.**, Swire-Thompson, B., Lorenz-Spreen, P., Herzog, S.M., Kozyreva, A., & Hertwig, R. (in press). The Online Misinformation Engagement Framework. _Current Opinion in Psychology_.
 
 **Geers, M.** (2023). [Linking lab and field research](https://rdcu.be/dgtB8). _Nature Reviews Psychology_, 2(8), 458.
 
