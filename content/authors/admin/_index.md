@@ -84,17 +84,3 @@ My research primarily focuses on consumer behavior in digital environments, curr
 Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences from the University of Pennsylvania. I also completed an MSc in Marketing with distinction (Trinity College Dublin) and a BA in Business Administration (Provadis School of International Management and Technology).
 
 I am on the 2023--2024 job market for assistant faculty and postdoc positions.
-
-<br>
-
-**Publications (updated November 2023):**
-
-**Geers, M.**, Swire-Thompson, B., Lorenz-Spreen, P., Herzog, S.M., Kozyreva, A., & Hertwig, R. (in press). [The Online Misinformation Engagement Framework](https://doi.org/10.1016/j.copsyc.2023.101739). _Current Opinion in Psychology_.
-
-**Geers, M.** (2023). [Linking lab and field research](https://rdcu.be/dgtB8). _Nature Reviews Psychology_, 2(8), 458.
-
-Sultan, M., Tump, A. N., **Geers, M.**, Lorenz-Spreen, P., Herzog, S., & Kurvers, R. (2022). [Time pressure reduces misinformation discrimination ability but does not alter response bias](https://doi.org/10.1038/s41598-022-26209-8). _Scientific Reports_, 12(1), 1-12.
-
-Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. (2022). [Susceptibility to misinformation is consistent across question framings and response modes and better explained by myside bias and partisanship than analytical thinking](http://journal.sjdm.org/22/220228/jdm220228.pdf). _Judgment and Decision Making_, 17(3), 547–573.
-
-Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M. (2021). [Boosting people’s ability to detect microtargeted advertising](https://doi.org/10.1038/s41598-021-94796-z). _Scientific Reports_, 11(1), 1-9.
