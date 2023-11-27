@@ -9,8 +9,8 @@ My research investigates the psychology of consumer judgment and decision making
 
 **Research on Susceptibility to Misinformation**
 
-- **Geers, M.**, Swire-Thompson, B., Lorenz-Spreen, P., Herzog, S.M., Kozyreva, A., & Hertwig, R. (in press). [The Online Misinformation Engagement Framework](https://doi.org/10.1016/j.copsyc.2023.101739). *Current Opinion in Psychology*.
 - **Geers, M.**, Fischer, H., Lewandowsky, S., & Herzog, S.M. [The political (a)symmetry of metacognitive insight into detecting misinformation](https://osf.io/preprints/psyarxiv/5mc8s). Revise and resubmit at *Journal of Experimental Psychology: General*.
+- **Geers, M.**, Swire-Thompson, B., Lorenz-Spreen, P., Herzog, S.M., Kozyreva, A., & Hertwig, R. (in press). [The Online Misinformation Engagement Framework](https://doi.org/10.1016/j.copsyc.2023.101739). *Current Opinion in Psychology*.
 - Lorenz-Spreen, P., Kozyreva, A., Arslan, R.C., Swire-Thompson, B., **Geers, M.**, Herzog, S.M., & Hertwig, R. Assessing the motives for sharing on Twitter. *Working paper*.
 - Roozenbeek, J., Maertens, R., Herzog, S.M., **Geers, M.**, Kurvers, R.H.J.M., Sultan, M., & van der Linden, S. (2022). [Susceptibility to misinformation is consistent across question framings and response modes and better explained by myside bias and partisanship than analytical thinking](https://doi.org/10.1017/s1930297500003570). *Judgment and Decision Making*, 17(3), 547–573.
 - Sultan, M., Tump, A.N., **Geers, M.**, Lorenz-Spreen, P., Herzog, S.M., & Kurvers, R.H.J.M. (2022). [Time pressure reduces misinformation discrimination ability but does not alter response bias](https://doi.org/10.1038/s41598-022-26209-8). *Scientific Reports*, 12(1), 1-12.
