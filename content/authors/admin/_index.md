@@ -79,7 +79,7 @@ highlight_name: false
 
 I am a behavioral scientist and a fourth-year PhD student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin.
 
-My research primarily focuses on consumer behavior in digital environments, currently pertaining to misinformation and microtargeting.
+My research primarily focuses on decision making in digital environments, currently pertaining to misinformation and microtargeting.
 
 Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences from the University of Pennsylvania. I also completed an MSc in Marketing with distinction (Trinity College Dublin) and a BA in Business Administration (Provadis School of International Management and Technology).
 
