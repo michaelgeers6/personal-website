@@ -3,7 +3,7 @@ title: 'Research'
 menu: 'research'
 ---
 
-My research investigates the psychology of consumer judgment and decision making. Specifically, I examine how features of new media platforms and technologies affect the consumption, processing, and sharing of information, especially information on politics and news. Thus far, I have pursued two broad streams of research. The first investigates when and why consumers are susceptible to misinformation. The second stream aims to boost consumers’ competences to navigate digital environments and guard themselves against manipulation. To this end, my research draws on a range of empirical methods, including surveys, online experiments, field studies, and combinations thereof.
+My research explores consumer behavior in online environments using insights and methods from psychology, marketing, and computational social science. I draw on a range of empirical methods, including surveys, online experiments, field studies, and combinations thereof. Thus far, I have pursued two broad streams of research. In my first stream of research, I seek to better understand consumer behavior online. In a second stream, I aim to boost consumers’ competences to navigate digital environments and guard themselves against manipulation. 
 
 <br>
 
