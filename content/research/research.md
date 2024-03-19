@@ -18,5 +18,5 @@ My research explores consumer behavior in online environments using insights and
 
 **Research on Boosting Consumers’ Competences Online**
 
-- Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M. (2021). [Boosting people’s ability to detect microtargeted advertising](https://doi.org/10.1038/s41598-021-94796-z). *Scientific Reports, 11(1)*, 1-9.
 - Kozyreva, A., Lorenz-Spreen, P., Herzog, S.M., Ecker, U.K.H., Lewandowsky, S., Hertwig, R., Ayesha, A., Bak-Coleman, J., Barzilai, S., Basol M., Berinsky, A.J.,  Betsch, C., Cook, J., Fazio, L.K., **Geers, M.**, Guess, A.M., Huang, H., Larreguy, H., Maertens, R., Panizza, F., Pennycook, G.,  Rand, D., Rathje, S., Reifler, J., Schmid, P., Smith, M., Swire-Thomson, B., Szewach, P., van der Linden, S., & Wineburg, S. [Toolbox of interventions against online misinformation](https://psyarxiv.com/x8ejt). Accepted in principle at *Nature Human Behaviour*.
+- Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M. (2021). [Boosting people’s ability to detect microtargeted advertising](https://doi.org/10.1038/s41598-021-94796-z). *Scientific Reports, 11(1)*, 1-9.
