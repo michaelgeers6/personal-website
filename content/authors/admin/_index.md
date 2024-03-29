@@ -77,7 +77,7 @@ highlight_name: false
 
 ---
 
-I am a behavioral scientist and a fourth-year PhD student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin.
+I am a behavioral marketing researcher and a fourth-year PhD student in Psychology at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin.
 
 My research primarily focuses on decision making in digital environments, currently pertaining to misinformation and microtargeting.
 
