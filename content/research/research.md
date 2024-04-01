@@ -3,7 +3,7 @@ title: 'Research'
 menu: 'research'
 ---
 
-My research explores consumer behavior in online environments using insights and methods from psychology, marketing, and computational social science. I draw on a range of empirical methods, including surveys, online experiments, field studies, and combinations thereof. Thus far, I have pursued two broad streams of research. In my first stream of research, I seek to better understand consumer behavior online. In a second stream, I aim to boost consumers’ competences to navigate digital environments and guard themselves against manipulation. 
+My research explores consumer behavior in online environments using insights and methods from psychology, marketing, and computational social science. Thus far, I have pursued two broad streams of research. In my first stream of research, I seek to better understand consumer behavior online. In a second stream, I aim to boost consumers’ competences to navigate digital environments and guard against manipulation. I draw on a range of empirical methods, including surveys, online experiments, field studies, and combinations thereof.
 
 <br>
 
