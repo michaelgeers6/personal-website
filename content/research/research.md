@@ -3,7 +3,7 @@ title: 'Research'
 menu: 'research'
 ---
 
-My research explores consumer behavior in online environments using insights and methods from psychology, marketing, and computational social science. Thus far, I have pursued two broad streams of research. In my first stream of research, I seek to better understand consumer behavior online. In a second stream, I aim to boost consumers’ competences to navigate digital environments and guard against manipulation. I draw on a range of empirical methods, including surveys, online experiments, field studies, and combinations thereof.
+My research explores consumer behavior in the digital world using insights and methods from psychology, marketing, and computational social science. I have two main lines of research. The first seeks to better understand how consumers grapple with information online. My second line of research aims to empower consumers to navigate digital environments and guard themselves against manipulation. I draw on a range of empirical methods, including surveys, online experiments, field studies, and combinations thereof.
 
 <br>
 
@@ -18,5 +18,5 @@ My research explores consumer behavior in online environments using insights and
 
 **Research on Boosting Consumers’ Competences Online**
 
-- Kozyreva, A., Lorenz-Spreen, P., Herzog, S.M., Ecker, U.K.H., Lewandowsky, S., Hertwig, R., Ayesha, A., Bak-Coleman, J., Barzilai, S., Basol M., Berinsky, A.J.,  Betsch, C., Cook, J., Fazio, L.K., **Geers, M.**, Guess, A.M., Huang, H., Larreguy, H., Maertens, R., Panizza, F., Pennycook, G.,  Rand, D., Rathje, S., Reifler, J., Schmid, P., Smith, M., Swire-Thomson, B., Szewach, P., van der Linden, S., & Wineburg, S. [Toolbox of interventions against online misinformation](https://psyarxiv.com/x8ejt). Accepted in principle at *Nature Human Behaviour*.
+- Kozyreva, A., Lorenz-Spreen, P., Herzog, S.M., Ecker, U.K.H., Lewandowsky, S., Hertwig, R., Ayesha, A., Bak-Coleman, J., Barzilai, S., Basol M., Berinsky, A.J.,  Betsch, C., Cook, J., Fazio, L.K., **Geers, M.**, Guess, A.M., Huang, H., Larreguy, H., Maertens, R., Panizza, F., Pennycook, G.,  Rand, D., Rathje, S., Reifler, J., Schmid, P., Smith, M., Swire-Thomson, B., Szewach, P., van der Linden, S., & Wineburg, S. (in press). [Toolbox of interventions against online misinformation](https://psyarxiv.com/x8ejt). *Nature Human Behaviour*.
 - Lorenz-Spreen, P., **Geers, M.**, Pachur, T., Hertwig, R., Lewandowsky, S., & Herzog, S.M. (2021). [Boosting people’s ability to detect microtargeted advertising](https://doi.org/10.1038/s41598-021-94796-z). *Scientific Reports, 11(1)*, 1-9.
