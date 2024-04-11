@@ -3,7 +3,7 @@ title: 'Research'
 menu: 'research'
 ---
 
-My research explores consumer behavior in the digital world using insights and methods from psychology, marketing, and computational social science. I have two main lines of research. The first seeks to better understand how consumers grapple with information online. My second line of research aims to empower consumers to navigate digital environments and guard themselves against manipulation. I draw on a range of empirical methods, including surveys, online experiments, field studies, and combinations thereof.
+My research explores consumer behavior in the online world using insights and methods from psychology, marketing, and computational social science. I have two main lines of research. The first seeks to better understand how consumers grapple with information online. My second line of research aims to empower consumers to navigate online environments and guard themselves against manipulation. I draw on a range of empirical methods, including surveys, online experiments, field studies, and combinations thereof.
 
 <br>
 
