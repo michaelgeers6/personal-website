@@ -6,7 +6,7 @@ title: Michael Geers
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Psychology
+role: Postdoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   #url: https://www.mpib-berlin.mpg.de/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Psychology, Center for Adaptive Rationality at the Max Planck Institute for Human Development
+bio: Postdoc, Center for Adaptive Rationality at the Max Planck Institute for Human Development
 
 # Interests to show in About widget
 #interests:
