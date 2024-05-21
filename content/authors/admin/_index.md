@@ -81,6 +81,6 @@ I am a behavioral marketing researcher and a postdoc at the [Center for Adaptive
 
 My research primarily focuses on consumer behavior in online environments, currently pertaining to misinformation and microtargeting.
 
-Prior to my current position, I conducted my doctoral research at ARC. I also earned a Master of Behavioral and Decision Sciences (University of Pennsylvania), an MSc in Marketing with distinction (Trinity College Dublin), and a BA in Business Administration (Provadis School of International Management and Technology).
+Prior to my current position, I conducted my doctoral research in Psychology at ARC. I also earned a Master of Behavioral and Decision Sciences (University of Pennsylvania), an MSc in Marketing with distinction (Trinity College Dublin), and a BA in Business Administration (Provadis School of International Management and Technology).
 
 My research has appeared or is forthcoming in journals such as *Journal of Experimental Psychology: General*, *Current Opinion in Psychology*, and *Nature Human Behaviour*.
