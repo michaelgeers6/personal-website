@@ -77,7 +77,7 @@ highlight_name: false
 
 ---
 
-I am a behavioral marketing researcher and a postdoc at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin. Later this year, I will be starting a new position as a tenure-track assistant professor of Marketing at the Michael Smurfit Graduate Business School, University College Dublin (UCD).
+I am a behavioral marketing researcher and a postdoc at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin. Later this year, I will start a new position as a tenure-track assistant professor of Marketing at the [Michael Smurfit Graduate Business School](https://www.smurfitschool.ie), [University College Dublin (UCD)](https://www.ucd.ie).
 
 My research primarily focuses on consumer behavior in online environments, currently pertaining to misinformation and microtargeting.
 
