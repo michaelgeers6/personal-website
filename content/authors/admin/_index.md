@@ -81,6 +81,6 @@ I am a behavioral marketing researcher and a tenure-track assistant professor of
 
 My research primarily focuses on consumer behavior in online environments, currently pertaining to misinformation and microtargeting.
 
-Prior to my current position, I worked as a postdoctoral and predoctoral fellow at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin. I also earned a Master of Behavioral and Decision Sciences (University of Pennsylvania), an MSc in Marketing with distinction (Trinity College Dublin), and a BA in Business Administration (Provadis School of International Management and Technology).
+Prior to my current position, I worked as a postdoctoral and predoctoral fellow at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin. I also earned a PhD in Psychology (Humboldt University of Berlin), a Master of Behavioral and Decision Sciences (University of Pennsylvania), an MSc in Marketing with distinction (Trinity College Dublin), and a BA in Business Administration (Provadis School of International Management and Technology).
 
 My research has appeared in journals such as *Journal of Experimental Psychology: General*, *Current Opinion in Psychology*, and *Nature Human Behaviour*.
