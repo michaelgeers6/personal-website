@@ -77,10 +77,10 @@ highlight_name: false
 
 ---
 
-I am a behavioral marketing researcher and a postdoc at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin. Later this year, I will start a new position as a tenure-track assistant professor of Marketing at the [Michael Smurfit Graduate Business School](https://www.smurfitschool.ie), [University College Dublin (UCD)](https://www.ucd.ie).
+I am a behavioral marketing researcher and a tenure-track assistant professor of Marketing at the [Michael Smurfit Graduate Business School](https://www.smurfitschool.ie), [University College Dublin (UCD)](https://www.ucd.ie).
 
 My research primarily focuses on consumer behavior in online environments, currently pertaining to misinformation and microtargeting.
 
-Prior to my current position, I conducted my doctoral research in Psychology at ARC. I also earned a Master of Behavioral and Decision Sciences (University of Pennsylvania), an MSc in Marketing with distinction (Trinity College Dublin), and a BA in Business Administration (Provadis School of International Management and Technology).
+Prior to my current position, I worked as a postdoctoral and predoctoral fellow at the [Center for Adaptive Rationality (ARC)](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin. I also earned a Master of Behavioral and Decision Sciences (University of Pennsylvania), an MSc in Marketing with distinction (Trinity College Dublin), and a BA in Business Administration (Provadis School of International Management and Technology).
 
 My research has appeared in journals such as *Journal of Experimental Psychology: General*, *Current Opinion in Psychology*, and *Nature Human Behaviour*.
