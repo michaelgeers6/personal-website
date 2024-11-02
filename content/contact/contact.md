@@ -6,17 +6,15 @@ menu: 'contact'
 
 Michael Geers
 
-Center for Adaptive Rationality
+Michael Smurfit Graduate Business School
 
-Max Planck Institute for Human Development
+University College Dublin
 
-Lentzeallee 94, 14195 Berlin, Germany
+Carysfort Ave, Blackrock, Co. Dublin, Ireland
 
 <br>
 
-Email: geers@mpib-berlin.mpg.de
-
-Phone: +49 30 82406-0
+Email: michael.geers@ucd.ie
 
 <br>
 
