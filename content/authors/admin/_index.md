@@ -6,15 +6,15 @@ title: Michael Geers
 superuser: true
 
 # Role/position/tagline
-role: Postdoc
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Max Planck Institute for Human Development
-  #url: https://www.mpib-berlin.mpg.de/en
+- name: Michael Smurfit Graduate Business School, University College Dublin
+  #url: [https://www.mpib-berlin.mpg.de/en](https://www.smurfitschool.ie)
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoc, Center for Adaptive Rationality at the Max Planck Institute for Human Development
+bio: Assistant Professor, Michael Smurfit Graduate Business School at University College Dublin
 
 # Interests to show in About widget
 #interests:
@@ -42,7 +42,7 @@ bio: Postdoc, Center for Adaptive Rationality at the Max Planck Institute for Hu
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:geers@mpib-berlin.mpg.de'
+  link: 'mailto:michael.geers@ucd.ie'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/michael_geers_
