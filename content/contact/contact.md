@@ -18,4 +18,4 @@ Email: michael.geers@ucd.ie
 
 <br>
 
-{{< figure library="true" src="mpib.jpg" >}}
+{{< figure library="true" src="smurfit.jpeg" >}}
