@@ -77,7 +77,7 @@ highlight_name: false
 
 ---
 
-I am a behavioral marketing researcher and a tenure-track assistant professor of Marketing at the [Michael Smurfit Graduate Business School](https://www.smurfitschool.ie), [University College Dublin (UCD)](https://www.ucd.ie).
+I am a behavioral scientist and a tenure-track assistant professor of Marketing at the [Michael Smurfit Graduate Business School](https://www.smurfitschool.ie), [University College Dublin (UCD)](https://www.ucd.ie).
 
 My research primarily focuses on consumer behavior in online environments, currently pertaining to misinformation and microtargeting.
 
