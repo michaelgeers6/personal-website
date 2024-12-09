@@ -6,7 +6,7 @@ title: Michael Geers
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Assistant Professor of Marketing
 
 # Organizations/Affiliations to show in About widget
 organizations:
