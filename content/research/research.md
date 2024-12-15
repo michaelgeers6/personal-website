@@ -3,7 +3,7 @@ title: 'Research'
 menu: 'research'
 ---
 
-My research explores consumer behavior in the online world using insights and methods from marketing, psychology, and computational social science. I have two main lines of research. The first seeks to address consumer trust, such as interventions that help consumers critically evaluate information while maintaining trust in credible sources---a challenge for policymakers and platform operators alike. My second line of research focuses on consumer autonomy and explores the tension between personalization and manipulation in digital marketing. I draw on a range of empirical methods, including surveys, online experiments, field studies, secondary data analyses, and combinations thereof.
+My research explores consumer behavior in the online world using insights and methods from marketing, psychology, and computational social science. I have two main lines of research. The first addresses consumer trust, such as interventions that help consumers critically evaluate information while maintaining trust in credible sources---a challenge for policymakers and platform operators alike. My second line of research focuses on consumer autonomy and explores the tension between personalization and manipulation in digital marketing. I draw on a range of empirical methods, including surveys, online experiments, field studies, secondary data analyses, and combinations thereof.
 
 <br>
 
