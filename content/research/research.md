@@ -8,11 +8,8 @@ My research explores consumer behavior in the online world using insights and me
 <br>
 
 <img width="1644" alt="Screenshot 2024-12-15 at 22 59 42" src="https://github.com/user-attachments/assets/202a6b78-1dcf-4009-aea6-5c39fedd94c2" />
-
-<be>
   
 <br>
-
 
 **Consumer Trust**
 
