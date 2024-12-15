@@ -20,6 +20,6 @@ My research explores consumer behavior in the online world using insights and me
 <br>
 
 **Consumer Autonomy**
-- Lorenz-Spreen, Philipp*, **Michael Geers**, Thorsten Pachur, Ralph Hertwig, Stephan Lewandowsky, and Stefan M. Herzog*, “[Boosting People's Ability to Detect Microtargeted Advertising](https://doi.org/10.1038/s41598-021-94796-z),” *Scientific Reports*, 2021, 11(1), 1–9. *denotes equal contribution
+- Lorenz-Spreen, Philipp, **Michael Geers**, Thorsten Pachur, Ralph Hertwig, Stephan Lewandowsky, and Stefan M. Herzog*, “[Boosting People's Ability to Detect Microtargeted Advertising](https://doi.org/10.1038/s41598-021-94796-z),” *Scientific Reports*, 2021, 11(1), 1–9.
 - Lorenz-Spreen, Philipp, Ruben C. Arslan, Anastasia Kozyreva, Briony Swire-Thompson, **Michael Geers**, Stefan M. Herzog, and Ralph Hertwig, “[Real-Time Assessment of Motives for Sharing and Creating Content Among Highly Active Twitter Users](https://doi.org/10.31234/osf.io/jf8w9),” *Working Paper*.
 - **Geers, Michael**, “[Linking Lab and Field Research](https://rdcu.be/dgtB8),” *Nature Reviews Psychology*, 2023, 2(8), 458.
