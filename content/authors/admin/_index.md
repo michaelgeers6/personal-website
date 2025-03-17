@@ -48,7 +48,7 @@ social:
   link: https://twitter.com/michael_geers_
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=6gy4GbkAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=8mdRo-UAAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Michael_Geers
