@@ -3,7 +3,7 @@ title: 'Research'
 menu: 'research'
 ---
 
-My research explores human behavior in the online world using insights and methods from psychology, marketing, and computational social science. I have two main lines of research. The first explores how people process (mis)information and make decisions online. My second line of research seeks to boost people’s competences to navigate digital environments and guard themselves against manipulation.. I draw on a range of empirical methods, including surveys, online experiments, field studies, secondary data analyses, and combinations thereof.
+My research explores human behavior in the online world using insights and methods from psychology, marketing, and computational social science. I have two main lines of research. The first explores how people process (mis)information and make decisions online. My second line of research seeks to boost people’s competences to navigate digital environments and guard themselves against manipulation. I draw on a range of empirical methods, including surveys, online experiments, field studies, secondary data analyses, and combinations thereof.
   
 <br>
 
