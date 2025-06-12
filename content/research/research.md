@@ -3,15 +3,11 @@ title: 'Research'
 menu: 'research'
 ---
 
-My research explores consumer behavior in the online world using insights and methods from marketing, psychology, and computational social science. I have two main lines of research. The first addresses consumer trust, such as interventions that help consumers critically evaluate information while maintaining trust in credible sources---a challenge for policymakers and platform operators alike. My second line of research focuses on consumer autonomy and explores the tension between personalization and manipulation in digital marketing. I draw on a range of empirical methods, including surveys, online experiments, field studies, secondary data analyses, and combinations thereof.
-
-<br>
-
-<img width="1650" alt="Screenshot 2024-12-18 at 13 19 34" src="https://github.com/user-attachments/assets/9428f112-1682-4476-bb1b-d42de362f486" />
+My research explores human behavior in the online world using insights and methods from psychology, marketing, and computational social science. I have two main lines of research. The first explores how people process (mis)information and make decisions online. My second line of research seeks to boost people’s competences to navigate digital environments and guard themselves against manipulation.. I draw on a range of empirical methods, including surveys, online experiments, field studies, secondary data analyses, and combinations thereof.
   
 <br>
 
-**Consumer Trust**
+**Consumer Information Processing**
 
 - **Geers, Michael**, Helen Fischer, Stephan Lewandowsky, and Stefan M. Herzog, “[The Political (A)symmetry of Metacognitive Insight into Detecting Misinformation](https://doi.org/10.1037/xge0001600),” *Journal of Experimental Psychology: General*, 2024, 153(8), 1961–1972. [ABCD: A*]
 - **Geers, Michael**, Briony Swire-Thompson, Philipp Lorenz-Spreen, Stefan M. Herzog, Anastasia Kozyreva, and Ralph Hertwig, “[The Online Misinformation Engagement Framework](https://doi.org/10.1016/j.copsyc.2023.101739),” *Current Opinion in Psychology*, 2024, 55, 101739.
@@ -23,7 +19,7 @@ My research explores consumer behavior in the online world using insights and me
 
 <br>
 
-**Consumer Autonomy**
+**Boosting Consumer Decision Making**
 - Lorenz-Spreen, Philipp, **Michael Geers**, Thorsten Pachur, Ralph Hertwig, Stephan Lewandowsky, and Stefan M. Herzog, “[Boosting People's Ability to Detect Microtargeted Advertising](https://doi.org/10.1038/s41598-021-94796-z),” *Scientific Reports*, 2021, 11(1), 1–9.
 - Lorenz-Spreen, Philipp, Ruben C. Arslan, Anastasia Kozyreva, Briony Swire-Thompson, **Michael Geers**, Stefan M. Herzog, and Ralph Hertwig, “[Real-Time Assessment of Motives for Sharing and Creating Content Among Highly Active Twitter Users](https://doi.org/10.31234/osf.io/jf8w9),” *Working Paper*.
 - **Geers, Michael**, “[Linking Lab and Field Research](https://rdcu.be/dgtB8),” *Nature Reviews Psychology*, 2023, 2(8), 458.
