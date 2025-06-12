@@ -77,9 +77,9 @@ highlight_name: false
 
 ---
 
-I'm a tenure-track assistant professor of Marketing at the [Michael Smurfit Graduate Business School](https://www.smurfitschool.ie), [University College Dublin (UCD)](https://www.ucd.ie).
+I’m a behavioral scientist and a tenure-track assistant professor of Marketing at the [Michael Smurfit Graduate Business School](https://www.smurfitschool.ie), [University College Dublin (UCD)](https://www.ucd.ie).
 
-My research primarily focuses on consumer behavior in online environments. Rooted in digital marketing, I explore how consumers process information and make decisions online, emphasizing two interconnected lines of inquiry: consumer trust and consumer autonomy. These themes have broad implications for marketing strategies in digital domains, informing corporate practices and consumer policy. 
+My research explores human behavior in digital contexts. In my first stream of research, I investigate how people process (mis)information and make decisions online. In a second stream, I aim to boost people’s competences to navigate digital environments and guard themselves against manipulation.
 
 Prior to my current position, I worked as a postdoctoral and predoctoral fellow at the [Center for Adaptive Rationality](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin. I also earned a PhD in Psychology (Humboldt University of Berlin), a Master of Behavioral and Decision Sciences (University of Pennsylvania), an MSc in Marketing (Trinity College Dublin), and a BA in Business Administration (Provadis School of International Management and Technology).
 
